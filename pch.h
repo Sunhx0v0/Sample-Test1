@@ -7,7 +7,7 @@
 #include "gtest/gtest.h"
 
 int add(int a, int b);
-int submerge(int a, int b);
+int subtract(int a, int b);
 
 bool IsCorrect(int y, int m, int d);
 
